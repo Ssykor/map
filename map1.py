@@ -24,20 +24,21 @@ main_frame = tk.Frame(root, width=1000, height=740, relief='groove', background=
 
 # =================================================================================
 # search option menu and entry field
-options_poi = ["Search by Address", "Search by Coordinates"]
+# options_poi = ["Search by Address", "Search by Coordinates"]
 
 def get_search_option_poi(*args):
-    print(f"search option has changed to '{option_clicked_poi.get()}'")
+    # print(f"search option has changed to '{option_clicked_poi.get()}'")
+    pass
 
-option_clicked_poi = tk.StringVar(value='Search by Address')
-option_clicked_poi.set(options_poi[0])
-option_clicked_poi.trace('w', get_search_option_poi)
+# option_clicked_poi = tk.StringVar(value='Search by Address')
+# option_clicked_poi.set(options_poi[0])
+# option_clicked_poi.trace('w', get_search_option_poi)
 
-drop_poi = tk.OptionMenu(search_frame, option_clicked_poi, *options_poi)
-drop_poi.config(bg=color1)
-drop_poi.config(width=20)
-drop_poi.config(height=1)
-drop_poi.config(fg=color2)
+# drop_poi = tk.OptionMenu(search_frame, option_clicked_poi, *options_poi)
+# drop_poi.config(bg=color1)
+# drop_poi.config(width=20)
+# drop_poi.config(height=1)
+# drop_poi.config(fg=color2)
 
 searchfield = tk.Entry(search_frame)
 searchfield.config(width=40)
