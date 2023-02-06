@@ -19,8 +19,8 @@ root.title("Pfadfinder")
 
 color0 = "#333" # _darkgrey
 color1 = "#073330" # _darkgreen
-color2 ="#00bbff" #_lihtblue
-m_color = "#5533ff"
+color2 ="#00bbff" # _lihtblue
+m_color = "#5533ff" # _ultravioletblue-blue
 
 switch_var = customtkinter.StringVar(value="off")
 
