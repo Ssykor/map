@@ -1,0 +1,131 @@
+[
+    "Berlin, Friedrichstra\u00dfe 172",
+    {
+        "accuracy": 0.001,
+        "address": "Quartier 207, Friedrichstra\u00dfe, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "bbox": {
+            "northeast": [
+                52.5147364,
+                13.3904289
+            ],
+            "southwest": [
+                52.5139847,
+                13.3893783
+            ]
+        },
+        "city": "Berlin",
+        "confidence": 10,
+        "country": "Deutschland",
+        "country_code": "de",
+        "importance": 0.001,
+        "lat": 52.5143413,
+        "lng": 13.38988783047378,
+        "neighborhood": "Dorotheenstadt",
+        "ok": true,
+        "osm_id": 25945410,
+        "osm_type": "way",
+        "place_id": 113796506,
+        "place_rank": 30,
+        "postal": "10117",
+        "quality": "retail",
+        "raw": {
+            "place_id": 113796506,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 25945410,
+            "boundingbox": [
+                "52.5139847",
+                "52.5147364",
+                "13.3893783",
+                "13.3904289"
+            ],
+            "lat": "52.5143413",
+            "lon": "13.38988783047378",
+            "display_name": "Quartier 207, Friedrichstra\u00dfe, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+            "place_rank": 30,
+            "category": "building",
+            "type": "retail",
+            "importance": 0.001,
+            "address": {
+                "building": "Quartier 207",
+                "road": "Friedrichstra\u00dfe",
+                "neighbourhood": "Dorotheenstadt",
+                "suburb": "Mitte",
+                "borough": "Mitte",
+                "city": "Berlin",
+                "ISO3166-2-lvl4": "DE-BE",
+                "postcode": "10117",
+                "country": "Deutschland",
+                "country_code": "de"
+            }
+        },
+        "status": "OK",
+        "street": "Friedrichstra\u00dfe",
+        "suburb": "Mitte",
+        "type": "retail"
+    },
+    {
+        "accuracy": 0.001,
+        "address": "Einstein Palais, Franz\u00f6sische Stra\u00dfe, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "bbox": {
+            "northeast": [
+                52.514649,
+                13.389061
+            ],
+            "southwest": [
+                52.5144488,
+                13.3886468
+            ]
+        },
+        "city": "Berlin",
+        "confidence": 10,
+        "country": "Deutschland",
+        "country_code": "de",
+        "importance": 0.001,
+        "lat": 52.51452955,
+        "lng": 13.38885542139262,
+        "neighborhood": "Dorotheenstadt",
+        "ok": true,
+        "osm_id": 36996303,
+        "osm_type": "way",
+        "place_id": 117923914,
+        "place_rank": 30,
+        "postal": "10117",
+        "quality": "commercial",
+        "raw": {
+            "place_id": 117923914,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 36996303,
+            "boundingbox": [
+                "52.5144488",
+                "52.514649",
+                "13.3886468",
+                "13.389061"
+            ],
+            "lat": "52.51452955",
+            "lon": "13.38885542139262",
+            "display_name": "Einstein Palais, Franz\u00f6sische Stra\u00dfe, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+            "place_rank": 30,
+            "category": "building",
+            "type": "commercial",
+            "importance": 0.001,
+            "address": {
+                "building": "Einstein Palais",
+                "road": "Franz\u00f6sische Stra\u00dfe",
+                "neighbourhood": "Dorotheenstadt",
+                "suburb": "Mitte",
+                "borough": "Mitte",
+                "city": "Berlin",
+                "ISO3166-2-lvl4": "DE-BE",
+                "postcode": "10117",
+                "country": "Deutschland",
+                "country_code": "de"
+            }
+        },
+        "status": "OK",
+        "street": "Franz\u00f6sische Stra\u00dfe",
+        "suburb": "Mitte",
+        "type": "commercial"
+    }
+]
