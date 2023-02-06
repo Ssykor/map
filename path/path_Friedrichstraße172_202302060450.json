@@ -1,0 +1,332 @@
+[
+    {
+        "accuracy": 0.001,
+        "address": "Aigner, 25, Franz\u00f6sische Stra\u00dfe, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "bbox": {
+            "northeast": [
+                52.514739,
+                13.3909781
+            ],
+            "southwest": [
+                52.514639,
+                13.3908781
+            ]
+        },
+        "city": "Berlin",
+        "confidence": 10,
+        "country": "Deutschland",
+        "country_code": "de",
+        "housenumber": "25",
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/food_restaurant.p.20.png",
+        "importance": 0.001,
+        "lat": 52.514689,
+        "lng": 13.3909281,
+        "neighborhood": "Dorotheenstadt",
+        "ok": true,
+        "osm_id": 86001813,
+        "osm_type": "node",
+        "place_id": 309600668,
+        "place_rank": 30,
+        "postal": "10117",
+        "quality": "restaurant",
+        "raw": {
+            "place_id": 309600668,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 86001813,
+            "boundingbox": [
+                "52.514639",
+                "52.514739",
+                "13.3908781",
+                "13.3909781"
+            ],
+            "lat": "52.514689",
+            "lon": "13.3909281",
+            "display_name": "Aigner, 25, Franz\u00f6sische Stra\u00dfe, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+            "place_rank": 30,
+            "category": "amenity",
+            "type": "restaurant",
+            "importance": 0.001,
+            "icon": "https://nominatim.openstreetmap.org/ui/mapicons/food_restaurant.p.20.png",
+            "address": {
+                "amenity": "Aigner",
+                "house_number": "25",
+                "road": "Franz\u00f6sische Stra\u00dfe",
+                "neighbourhood": "Dorotheenstadt",
+                "suburb": "Mitte",
+                "borough": "Mitte",
+                "city": "Berlin",
+                "ISO3166-2-lvl4": "DE-BE",
+                "postcode": "10117",
+                "country": "Deutschland",
+                "country_code": "de"
+            }
+        },
+        "status": "OK",
+        "street": "Franz\u00f6sische Stra\u00dfe",
+        "suburb": "Mitte",
+        "type": "restaurant"
+    },
+    {
+        "accuracy": 0.001,
+        "address": "8, Franz\u00f6sische Stra\u00dfe, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "bbox": {
+            "northeast": [
+                52.5145434,
+                13.3865866
+            ],
+            "southwest": [
+                52.5144434,
+                13.3864866
+            ]
+        },
+        "city": "Berlin",
+        "confidence": 10,
+        "country": "Deutschland",
+        "country_code": "de",
+        "housenumber": "8",
+        "importance": 0.001,
+        "lat": 52.5144934,
+        "lng": 13.3865366,
+        "neighborhood": "Dorotheenstadt",
+        "ok": true,
+        "osm_id": 542891415,
+        "osm_type": "node",
+        "place_id": 3888612,
+        "place_rank": 30,
+        "postal": "10117",
+        "quality": "house",
+        "raw": {
+            "place_id": 3888612,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 542891415,
+            "boundingbox": [
+                "52.5144434",
+                "52.5145434",
+                "13.3864866",
+                "13.3865866"
+            ],
+            "lat": "52.5144934",
+            "lon": "13.3865366",
+            "display_name": "8, Franz\u00f6sische Stra\u00dfe, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+            "place_rank": 30,
+            "category": "place",
+            "type": "house",
+            "importance": 0.001,
+            "address": {
+                "house_number": "8",
+                "road": "Franz\u00f6sische Stra\u00dfe",
+                "neighbourhood": "Dorotheenstadt",
+                "suburb": "Mitte",
+                "borough": "Mitte",
+                "city": "Berlin",
+                "ISO3166-2-lvl4": "DE-BE",
+                "postcode": "10117",
+                "country": "Deutschland",
+                "country_code": "de"
+            }
+        },
+        "status": "OK",
+        "street": "Franz\u00f6sische Stra\u00dfe",
+        "suburb": "Mitte",
+        "type": "house"
+    },
+    {
+        "accuracy": 0.001,
+        "address": "27, Glinkastra\u00dfe, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "bbox": {
+            "northeast": [
+                52.5139551,
+                13.3862337
+            ],
+            "southwest": [
+                52.5138551,
+                13.3861337
+            ]
+        },
+        "city": "Berlin",
+        "confidence": 10,
+        "country": "Deutschland",
+        "country_code": "de",
+        "housenumber": "27",
+        "importance": 0.001,
+        "lat": 52.5139051,
+        "lng": 13.3861837,
+        "neighborhood": "Dorotheenstadt",
+        "ok": true,
+        "osm_id": 546262516,
+        "osm_type": "node",
+        "place_id": 3832481,
+        "place_rank": 30,
+        "postal": "10117",
+        "quality": "house",
+        "raw": {
+            "place_id": 3832481,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 546262516,
+            "boundingbox": [
+                "52.5138551",
+                "52.5139551",
+                "13.3861337",
+                "13.3862337"
+            ],
+            "lat": "52.5139051",
+            "lon": "13.3861837",
+            "display_name": "27, Glinkastra\u00dfe, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+            "place_rank": 30,
+            "category": "place",
+            "type": "house",
+            "importance": 0.001,
+            "address": {
+                "house_number": "27",
+                "road": "Glinkastra\u00dfe",
+                "neighbourhood": "Dorotheenstadt",
+                "suburb": "Mitte",
+                "borough": "Mitte",
+                "city": "Berlin",
+                "ISO3166-2-lvl4": "DE-BE",
+                "postcode": "10117",
+                "country": "Deutschland",
+                "country_code": "de"
+            }
+        },
+        "status": "OK",
+        "street": "Glinkastra\u00dfe",
+        "suburb": "Mitte",
+        "type": "house"
+    },
+    {
+        "accuracy": 0.001,
+        "address": "Antiquariat am Gendarmenmarkt, J\u00e4gerstra\u00dfe, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "bbox": {
+            "northeast": [
+                52.5141556,
+                13.3910414
+            ],
+            "southwest": [
+                52.5140556,
+                13.3909414
+            ]
+        },
+        "city": "Berlin",
+        "confidence": 10,
+        "country": "Deutschland",
+        "country_code": "de",
+        "importance": 0.001,
+        "lat": 52.5141056,
+        "lng": 13.3909914,
+        "neighborhood": "Dorotheenstadt",
+        "ok": true,
+        "osm_id": 86001816,
+        "osm_type": "node",
+        "place_id": 309724591,
+        "place_rank": 30,
+        "postal": "10117",
+        "quality": "antiques",
+        "raw": {
+            "place_id": 309724591,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 86001816,
+            "boundingbox": [
+                "52.5140556",
+                "52.5141556",
+                "13.3909414",
+                "13.3910414"
+            ],
+            "lat": "52.5141056",
+            "lon": "13.3909914",
+            "display_name": "Antiquariat am Gendarmenmarkt, J\u00e4gerstra\u00dfe, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+            "place_rank": 30,
+            "category": "shop",
+            "type": "antiques",
+            "importance": 0.001,
+            "address": {
+                "shop": "Antiquariat am Gendarmenmarkt",
+                "road": "J\u00e4gerstra\u00dfe",
+                "neighbourhood": "Dorotheenstadt",
+                "suburb": "Mitte",
+                "borough": "Mitte",
+                "city": "Berlin",
+                "ISO3166-2-lvl4": "DE-BE",
+                "postcode": "10117",
+                "country": "Deutschland",
+                "country_code": "de"
+            }
+        },
+        "status": "OK",
+        "street": "J\u00e4gerstra\u00dfe",
+        "suburb": "Mitte",
+        "type": "antiques"
+    },
+    {
+        "accuracy": 0.001,
+        "address": "Aigner, 25, Franz\u00f6sische Stra\u00dfe, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+        "bbox": {
+            "northeast": [
+                52.514739,
+                13.3909781
+            ],
+            "southwest": [
+                52.514639,
+                13.3908781
+            ]
+        },
+        "city": "Berlin",
+        "confidence": 10,
+        "country": "Deutschland",
+        "country_code": "de",
+        "housenumber": "25",
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/food_restaurant.p.20.png",
+        "importance": 0.001,
+        "lat": 52.514689,
+        "lng": 13.3909281,
+        "neighborhood": "Dorotheenstadt",
+        "ok": true,
+        "osm_id": 86001813,
+        "osm_type": "node",
+        "place_id": 309600668,
+        "place_rank": 30,
+        "postal": "10117",
+        "quality": "restaurant",
+        "raw": {
+            "place_id": 309600668,
+            "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "node",
+            "osm_id": 86001813,
+            "boundingbox": [
+                "52.514639",
+                "52.514739",
+                "13.3908781",
+                "13.3909781"
+            ],
+            "lat": "52.514689",
+            "lon": "13.3909281",
+            "display_name": "Aigner, 25, Franz\u00f6sische Stra\u00dfe, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+            "place_rank": 30,
+            "category": "amenity",
+            "type": "restaurant",
+            "importance": 0.001,
+            "icon": "https://nominatim.openstreetmap.org/ui/mapicons/food_restaurant.p.20.png",
+            "address": {
+                "amenity": "Aigner",
+                "house_number": "25",
+                "road": "Franz\u00f6sische Stra\u00dfe",
+                "neighbourhood": "Dorotheenstadt",
+                "suburb": "Mitte",
+                "borough": "Mitte",
+                "city": "Berlin",
+                "ISO3166-2-lvl4": "DE-BE",
+                "postcode": "10117",
+                "country": "Deutschland",
+                "country_code": "de"
+            }
+        },
+        "status": "OK",
+        "street": "Franz\u00f6sische Stra\u00dfe",
+        "suburb": "Mitte",
+        "type": "restaurant"
+    }
+]
